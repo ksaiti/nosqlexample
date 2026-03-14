@@ -4,3 +4,4 @@
 # basic queries like avg, min, sum and combinations of documents
 
 # how to find specific keys and how to return specific keys-values from the database
+# how to Show only device, country, page, time_spent and sort by time_spent (ASCending) and (DESCending)
